@@ -53,7 +53,7 @@ Desde que descubrí el mundo tech en el bachillerato, no he parado de crear. He 
 
 Estoy siempre abierto a colaborar en ideas que aporten valor y usen la tecnología como catalizador de cambio.
 
-📬 **tuemail@example.com**  
+📬 **martinperezcss@gmail.com**  
 🔗 [LinkedIn](https://www.linkedin.com/in/martinpcs)
 
 ---
