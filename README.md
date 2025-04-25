@@ -35,7 +35,7 @@ Desde que descubrí el mundo tech en el bachillerato, no he parado de crear. He 
 
 ## 🛠️ Tecnologías que uso
 
-`Solana` • `Solidity` • `Python` • `JavaScript` • `Node.js` • `Next.js` • `React` • `Firebase` • `MongoDB` • `Pine Script` • `ChatGPT API`
+`Solana` • `Solidity` • `Python` • `JavaScript` • `Node.js` • `Next.js` • `React` • `SQL`
 
 ---
 
