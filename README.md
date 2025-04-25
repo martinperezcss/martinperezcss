@@ -1,4 +1,4 @@
-<h1 align="center">Hola, soy [Tu Nombre] 👋</h1>
+<h1 align="center">Hola, soy Martín 👋</h1>
 <p align="center">
   Emprendedor digital enfocado en construir en la intersección de <strong>blockchain</strong>, <strong>inteligencia artificial</strong> y <strong>finanzas</strong>.
 </p>
