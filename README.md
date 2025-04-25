@@ -35,7 +35,7 @@ Since I discovered the tech world in high school, I haven't stopped creating. I'
 
 ## 🛠️ Technologies I Use
 
-`Solana` • `Solidity` • `Python` • `JavaScript` • `Node.js` • `Next.js` • `React` • `SQL` • `Vite`
+`Solana` • `Solidity` • `Python` • `JavaScript` • `Node.js` • `Next.js` • `React` • `SQL` • `Vite` • `Supabase` • `Redis`
 
 ---
 
